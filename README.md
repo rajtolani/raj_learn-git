@@ -1,5 +1,8 @@
-# raj_learn-git
-For learning and testing
+# FinTech Repository
 
-Lets see how well Git works
+## FinTech Repository
+
+### FinTech Repository
+
+Welcome to my repository of FinTech projects. Please explore the codebase!
 
